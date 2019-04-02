@@ -1,8 +1,8 @@
-$(document).ready(){
-  function paragraphSelector(){
+$(document).ready(  function paragraphSelector(){
    $('p')
 }
-  
+  ){
+
 }
 
 
